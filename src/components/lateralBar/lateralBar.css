@@ -1,0 +1,25 @@
+.lcontainer {
+    background-color: rgb(165, 141, 89);
+    height: 80vh;
+    width: 10%;
+    margin-top: 4.5%;
+}
+
+.images-logo {
+    width: 100%;
+}
+
+.images-icon-ig {
+    height: 5vh;
+    width: 25%;
+    margin-top: 190%;
+    margin-left: 37%;
+}
+
+.images-icon-git {
+    height: 6vh;
+    width: 29%;
+    margin-top: 10%;
+    margin-left: 35%;
+
+}

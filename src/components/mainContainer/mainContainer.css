@@ -1,0 +1,64 @@
+.container {
+    height: 80vh;
+    width: 50%;
+    margin-top: 4.5%;
+    margin-right: 18%;
+    background-color: rgba(153, 128, 74, 0.842);
+}
+
+.title-edit {
+    margin-bottom: 10%;
+    color: rgb(221, 215, 215);
+}
+
+.ajustify-container {
+    display: flex;
+    flex-direction: row;
+    height: 60vh;
+}
+
+.image {
+    height: 70vh;
+    width: 110%;
+    margin-left: 8%;
+    margin-top: 12%;
+}
+
+.form {
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 2.5%;
+}
+
+input {
+    background-color: rgb(165, 141, 89);
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 15%;
+    height: 4vh;
+    width: 210%;
+    padding: 10%;
+}
+
+.text {
+    height: 8vh;
+}
+
+
+button {
+    border: none;
+    background-color: rgb(221, 215, 215);
+    border-radius: 10px;
+    height: 5vh;
+    width: 230%;
+    margin-top: 5%;
+
+}
+
+p {
+    color:rgb(221, 215, 215);
+    text-align: center;
+    width: 42%;
+    height: 100px;
+    margin-left: 51%;
+}
